@@ -27,7 +27,8 @@ I also have academic experience with:
 
 ## Future Goals
 
-I am seeking new job opportunities and expanding my knowledge in full-stack or backend software development.
+I am not currently seeking new job opportunities. 
+But I'm always expanding my knowledge in full-stack and/or backend software development!
 
 ## Contact
 
