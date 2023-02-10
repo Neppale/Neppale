@@ -1,16 +1,38 @@
-### Hi there 👋
+# Gabriel Veríssimo Dias
 
-<!--
-**Neppale/Neppale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old software developer with a focus on backend development. I have been working with software development since 2021 and I am currently a Software Development Intern at 'Aliansce Sonae + brMalls'.
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have professional experience with:
+- TypeScript
+- JavaScript
+- SQL
+- Postgres and similar relational databases
+- Docker
+- Git
+- NestJS
+- Express.js
+
+I also have academic experience with:
+- Java
+- C#
+- Microsoft SQL Server
+
+## Projects
+
+- Downloadify (https://github.com/Neppale/Downloadify) - a web app for you to download your public Spotify playlists
+- SpotifyMatch (https://github.com/Neppale/SpotifyMatch) - an API built using NestJS used to compare two Spotify profiles and find out how similar they are
+- BurleiDireto (https://github.com/Neppale/BurleiDireto) - a browser extension to see the hidden pay-walled content on the academic research papers website PasseiDireto (in Brazilian Portuguese)
+
+## Future Goals
+
+I am seeking new job opportunities and expanding my knowledge in full-stack or backend software development.
+
+## Contact
+
+Feel free to reach out to me through:
+- LinkedIn: https://www.linkedin.com/in/gabriel-verissimo-dias/
+- Instagram: @verissimo.png
+- Email: gabriel@verissimo.dev
+- Website: verissimo.dev
