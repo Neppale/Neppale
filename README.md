@@ -10,8 +10,10 @@ I have professional experience with:
 - Postgres and similar relational databases
 - Docker
 - Git
+- Redis
 - NestJS
 - Express.js
+- Azure DevOps
 
 I also have academic experience with:
 - Java
@@ -22,7 +24,7 @@ I also have academic experience with:
 
 - Downloadify (https://github.com/Neppale/Downloadify) - a web app for you to download your public Spotify playlists
 - SpotifyMatch (https://github.com/Neppale/SpotifyMatch) - an API built using NestJS used to compare two Spotify profiles and find out how similar they are
-- BurleiDireto (https://github.com/Neppale/BurleiDireto) - a browser extension to see the hidden pay-walled content on the academic research papers website PasseiDireto (in Brazilian Portuguese)
+- Minin (https://github.com/Neppale/Minin) - an API used to shorten URLs (built using NestJS, Redis and SQLite) and view statistics related to their usage
 
 ## Contact
 
